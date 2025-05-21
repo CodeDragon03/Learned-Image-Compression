@@ -1,6 +1,7 @@
 # Learned Image Compression
 
 ![PyPI - Version](https://img.shields.io/pypi/v/PyTorch?style=for-the-badge&logoSize=auto)
+![GitHub License](https://img.shields.io/github/license/CodeDragon03/Learned-Image-Compression?style=for-the-badge&logo=MIT)
 
 ## **Project Title**
 
