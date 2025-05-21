@@ -1,4 +1,10 @@
 site_name: Learned Image Compression
-# 
+#
 site_author: Jay Vivek Yadav
-# 
+#
+
+nav:
+  - Home: index.md
+  - Setup: getting-started.md
+
+theme: material
