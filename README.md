@@ -1,5 +1,7 @@
 # Learned Image Compression
 
+![PyPI - Version](https://img.shields.io/pypi/v/PyTorch?style=for-the-badge&logoSize=auto)
+
 ## **Project Title**
 
     Learned Image Compression Using Discretized Gaussian Mixture Likelihoods and Attention Modules
