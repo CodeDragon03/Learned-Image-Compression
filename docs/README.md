@@ -1,7 +1,6 @@
-Generating the docs
-----------
+## Generating the docs
 
-Use [mkdocs](http://www.mkdocs.org/) structure to update the documentation. 
+Use [mkdocs](http://www.mkdocs.org/) structure to update the documentation.
 
 Build locally with:
 
@@ -10,3 +9,7 @@ Build locally with:
 Serve locally with:
 
     mkdocs serve
+
+Deploy with GitHub:
+
+    mkdocs gh-deploy
