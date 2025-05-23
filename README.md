@@ -1,7 +1,7 @@
 # Learned Image Compression
 
 ![PyPI - Version](https://img.shields.io/pypi/v/PyTorch?style=for-the-badge&logo=PyTorch)
-![PyPI - Version](https://img.shields.io/pypi/v/cuda-python?style=for-the-badge&logo=cuda-python)
+![PyPI - Version](https://img.shields.io/pypi/v/cuda-python?style=for-the-badge&logo=nvidia)
 ![GitHub License](https://img.shields.io/github/license/CodeDragon03/Learned-Image-Compression?style=for-the-badge&logo=MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/CodeDragon03/Learned-Image-COmpression?display_timestamp=author&style=for-the-badge&logo=Last%20Commit)
 
